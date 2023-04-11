@@ -20,13 +20,14 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 4. Faça o push para a branch (git push origin feature/nova-feature).
 5. Crie um novo Pull Request.
 
-# Licença
+## Licença
 
 Este projeto está sob a licença MIT. Leia o arquivo "LICENSE" para mais informações.
 
-Autor
+## Autor
 Este projeto foi desenvolvido por [Marco Antonio Menezes Jorge ](https://github.com/MarcoAntonioMj).
-# Atividade que foi pedida primeira questão : 
+
+## Atividade que foi pedida primeira questão : 
 ```
 Escreva uma Calculadora em Java que contenha uma classe chamada 
 Calculadora.Java .
@@ -39,6 +40,7 @@ potenciar(numeroUm ^ numeroDois)
 Escreva os algoritmos de todos os métodos acima.
 ```
 ## Passo a Passo . 
+
 1.  Criei uma nova classe chamada "Calculadora" com um construtor que recebe dois números como parâmetros e implementei os métodos de soma, subtração, multiplicação,       divisão e potenciação nessa classe.
 
 2. No método main, criei um objeto da classe Scanner para ler a entrada do usuário e solicitei que ele inserisse os dois números que deseja calcular.
