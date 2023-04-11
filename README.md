@@ -1,8 +1,16 @@
 #  Calculadora-java-Junit
 Este é um projeto desenvolvido para treinar testes unitários em Java. Inicialmente, será desenvolvida uma calculadora simples em Java com as operações básicas, como soma, subtração, multiplicação, divisão e potenciação. Após a implementação da calculadora, serão criados testes unitários para validar o funcionamento correto de cada método. Siga as instruções abaixo para usar a calculadora e, posteriormente, executar os testes unitários.
 
-# Calculadora
+## Calculadora
 Este é um projeto de uma calculadora simples em Java, onde o usuário pode escolher entre as seguintes operações: soma, subtração, multiplicação, divisão e potenciação.
+
+## Ferramentas utilizadas
+
+[Visual Studio Code](https://code.visualstudio.com)  - Um editor de código-fonte desenvolvido pela Microsoft.
+
+[Java](https://www.java.com/pt-BR/)  - Uma linguagem de programação de alto nível e plataforma computacional.
+
+[JUnit](https://junit.org/junit5/)  - Um framework de testes unitários para a linguagem de programação Java.
 
 ## Como usar
 
