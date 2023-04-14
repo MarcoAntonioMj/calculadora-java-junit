@@ -203,5 +203,5 @@ Adicionei o IF para quando a lista tiver vazia ficou assim ;
                      }
                       break;
 ```
-O que é o is.Empty
+## O que é o is.Empty
 isEmpty() é um método da classe String em Java que retorna um valor booleano indicando se uma determinada string está vazia ou não. O método verifica se a string não tem nenhum caractere e retorna true se estiver vazia e false caso contrário.
