@@ -169,3 +169,39 @@ assertEquals(esperado, atual, margemDeErro);
 - margemDeErro: valor máximo permitido para a diferença entre o valor esperado e o valor real.
 
  Se o valor esperado e o valor atual forem iguais dentro da margem de erro especificada, o teste passará. Caso contrário, o teste falhará.
+
+## ADICIONANDO CASE 6 - HISTORICO
+- Primeiro importei a biblioteca 
+
+```
+import java.util.ArrayList;
+```
+- Criei a lista com o nome :
+
+```
+ArrayList<String> historico = new ArrayList<>();
+```
+
+No começo o case estava assim :
+```
+System.out.println("======HISTORICO======");
+                     for (String item : historico) {
+                       System.out.println(item);
+                     }
+```
+Adicionei o IF para quando a lista tiver vazia ficou assim ;
+```
+ case 6:
+                     System.out.println("======HISTÓRICO======");
+                  if (historico.isEmpty()) {
+                    System.out.println("Não há operações registradas no histórico ainda.");
+                  } else {
+                     System.out.println("Operações registradas no histórico:");
+                    for (String item : historico) {
+            System.out.println(item);
+                         }
+                     }
+                      break;
+```
+O que é o is.Empty
+isEmpty() é um método da classe String em Java que retorna um valor booleano indicando se uma determinada string está vazia ou não. O método verifica se a string não tem nenhum caractere e retorna true se estiver vazia e false caso contrário.
