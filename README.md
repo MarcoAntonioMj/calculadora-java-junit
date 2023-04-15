@@ -61,7 +61,7 @@ Escreva os algoritmos de todos os métodos acima.
 
 6. Adicionei uma verificação para evitar a divisão por zero e exibir uma mensagem de erro ao usuário caso isso ocorra.
 
-7. Por fim, adicionei a opção uma if se a pessoas desejar continuar com a operação junto com uma bolean.
+7. Por fim, adicionei um historico usando Array .
 
 ## Primeiro teste unitário
 Para começar a praticar a escrita de testes unitários em Java, decidir criar um teste simples para a classe Calculadora. O objetivo do teste é validar a funcionalidade do método soma(), que deve retornar a soma de dois números.
